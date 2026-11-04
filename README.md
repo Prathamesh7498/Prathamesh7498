@@ -1,11 +1,10 @@
-<!-- PRATHAMESH LANGAR | COPILOT SPECTRUM PROFILE -->
+<!-- PRATHAMESH LANGAR | COPILOT SPECTRUM — NO PORTRAIT EDITION -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:160048,18:26115F,42:43179E,68:8534F3,86:B870FF,100:C898FD&height=250&section=header&text=PRATHAMESH%20LANGAR&fontSize=46&fontColor=FFFFFF&fontAlignY=37&desc=BUILDING%20THE%20FUTURE%20%E2%80%A2%20ONE%20COMMIT%20AT%20A%20TIME&descSize=13&descColor=F4A876&descAlignY=59&animation=twinkling" alt="Animated Copilot spectrum header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:160048,18:26115F,42:43179E,68:8534F3,86:B870FF,100:C898FD&height=250&section=header&text=PRATHAMESH%20LANGAR&fontSize=46&fontColor=FFFFFF&fontAlignY=37&desc=ENGINEERING%20IDEAS%20%E2%80%A2%20CREATING%20IMPACT%20%E2%80%A2%20LEARNING%20ALWAYS&descSize=13&descColor=F4A876&descAlignY=59&animation=twinkling" alt="Animated Copilot spectrum header" />
 </div>
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/237241144?v=4" width="142" alt="Prathamesh Langar GitHub profile avatar" />
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2400&pause=650&color=8534F3&center=true&vCenter=true&width=760&height=55&lines=Hey%2C+I'm+Prathamesh+%F0%9F%91%8B;Developer+%7C+Creator+%7C+Tech+Enthusiast;Turning+ideas+into+real+projects;Learn.+Build.+Ship.+Repeat." alt="Animated introduction" />
   <br/>
