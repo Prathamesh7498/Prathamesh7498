@@ -1,10 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="t">
-<title id="t">The shinobi way — build with purpose</title>
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101a2a"/><stop offset="1" stop-color="#251a25"/></linearGradient><linearGradient id="a"><stop stop-color="#ff783e"/><stop offset="1" stop-color="#ffcf82"/></linearGradient></defs>
-<rect width="1200" height="240" rx="24" fill="url(#bg)" stroke="#554254"/>
-<text x="48" y="50" fill="#ffad70" font-family="Arial" font-size="16" font-weight="bold" letter-spacing="4">🍃  MY SHINOBI WAY</text>
-<text x="48" y="112" fill="#fffaf1" font-family="Georgia" font-size="38" font-weight="bold">“A stronger mind builds a stronger future.”</text>
-<text x="50" y="157" fill="#c6d3e1" font-family="Arial" font-size="20">Learn relentlessly. Build thoughtfully. Protect what matters.</text>
-<text x="50" y="198" fill="#8de6ff" font-family="Arial" font-size="16" letter-spacing="3">DISCIPLINE  •  CURIOSITY  •  CONSISTENCY</text>
-<g transform="translate(1000 120)"><circle r="72" fill="none" stroke="#ff894e" stroke-width="3" stroke-dasharray="12 8"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="24s" repeatCount="indefinite"/></circle><circle r="48" fill="none" stroke="#65dfff" stroke-width="2" stroke-dasharray="4 8"><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="15s" repeatCount="indefinite"/></circle><path d="M-22 -4L0 20 30 -24" fill="none" stroke="url(#a)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-labelledby="t">
+<title id="t">My Ninja Way</title><defs><linearGradient id="paper" x2="1" y2="1"><stop stop-color="#f5d49a"/><stop offset=".5" stop-color="#d6a66b"/><stop offset="1" stop-color="#f2d19a"/></linearGradient><linearGradient id="ink" x2="1"><stop stop-color="#a72a20"/><stop offset="1" stop-color="#e66b25"/></linearGradient></defs>
+<rect width="1200" height="210" rx="18" fill="#101522" stroke="#a94d34" stroke-width="2"/>
+<path d="M28 24H1172V186H28Z" fill="url(#paper)" opacity=".97"/>
+<path d="M40 38H1160V172H40Z" fill="none" stroke="#7a3529" stroke-width="2" stroke-dasharray="7 5"/>
+<g transform="translate(1050 105)"><circle r="55" fill="none" stroke="#a72a20" stroke-width="5"/><circle r="42" fill="none" stroke="#a72a20" stroke-width="2"/><path d="M-24 0H24M0 -24V24" stroke="#a72a20" stroke-width="3"/><path d="M-17 -18L17 18M17 -18L-17 18" stroke="#a72a20" stroke-width="2"/></g>
+<g font-family="Georgia,serif"><text x="72" y="76" fill="#a72a20" font-size="17" font-weight="bold" letter-spacing="4">🍃 MY NINJA WAY</text><text x="72" y="122" fill="#211a19" font-size="33" font-weight="bold">“Never stop learning. Never stop building.”</text><text x="74" y="155" fill="#44302a" font-size="19">I turn curiosity into practical software — with discipline, creativity and a security-first mindset.</text></g>
+<path d="M72 169H790" stroke="url(#ink)" stroke-width="4"><animate attributeName="stroke-dasharray" values="0 720;720 0;0 720" dur="8s" repeatCount="indefinite"/></path>
 </svg>

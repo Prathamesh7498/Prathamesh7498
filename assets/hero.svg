@@ -1,35 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
-<title id="title">Prathamesh — Shinobi Developer</title><desc id="desc">Original ninja-inspired profile artwork with a masked shinobi silhouette, moonlit hidden village, drifting leaves and chakra trails.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="t d">
+<title id="t">Prathamesh Langar — Hidden Leaf Shinobi developer</title><desc id="d">Original anime-inspired Hidden Leaf village at night, Hokage monument silhouettes, moon, ninja silhouettes, flying leaves and developer introduction.</desc>
 <defs>
- <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#080d1c"/><stop offset=".62" stop-color="#17243b"/><stop offset="1" stop-color="#38202a"/></linearGradient>
- <linearGradient id="fire" x1="0" x2="1"><stop stop-color="#ff713d"/><stop offset=".5" stop-color="#ffcb72"/><stop offset="1" stop-color="#70dfff"/></linearGradient>
- <radialGradient id="moon"><stop stop-color="#fff5d5"/><stop offset="1" stop-color="#e5a65f"/></radialGradient>
- <filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
- <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <linearGradient id="night" x2="0" y2="1"><stop stop-color="#070b19"/><stop offset=".62" stop-color="#151b34"/><stop offset="1" stop-color="#361c27"/></linearGradient>
+ <linearGradient id="gold" x2="1"><stop stop-color="#ff682f"/><stop offset=".52" stop-color="#ffc15c"/><stop offset="1" stop-color="#fff0bd"/></linearGradient>
+ <radialGradient id="moon"><stop stop-color="#fff4d7"/><stop offset="1" stop-color="#e6a85b"/></radialGradient>
+ <filter id="g"><feGaussianBlur stdDeviation="8"/></filter>
 </defs>
-<rect width="1200" height="430" rx="25" fill="url(#sky)"/>
-<circle cx="910" cy="120" r="118" fill="#ff9b59" opacity=".12" filter="url(#blur)"/><circle cx="910" cy="120" r="76" fill="url(#moon)"/>
-<g fill="#fff0d1" opacity=".7"><circle cx="130" cy="75" r="1.8"/><circle cx="260" cy="118" r="1.4"/><circle cx="430" cy="60" r="1.5"/><circle cx="720" cy="75" r="1.7"/><circle cx="1080" cy="55" r="1.5"/></g>
-<path d="M0 285L105 210 180 260 280 190 360 260 465 205 550 270 650 205 740 265 835 198 930 275 1030 208 1200 275V430H0Z" fill="#111b2d"/>
-<g fill="#18273a" stroke="#304258" stroke-width="2"><path d="M40 310V220L90 180 140 220V310Z"/><path d="M20 220L90 164 160 220Z"/><path d="M175 335V250L230 205 285 250V335Z"/><path d="M155 250L230 190 305 250Z"/><path d="M320 350V240L390 178 460 240V350Z"/><path d="M298 240L390 165 482 240Z"/><path d="M480 345V255L540 205 600 255V345Z"/><path d="M460 255L540 190 620 255Z"/><path d="M650 345V240L720 180 790 240V345Z"/><path d="M628 240L720 165 812 240Z"/><path d="M830 350V260L890 210 950 260V350Z"/><path d="M810 260L890 195 970 260Z"/></g>
-<g fill="#ff9b58" opacity=".8"><rect x="75" y="250" width="8" height="19"/><rect x="108" y="250" width="8" height="19"/><rect x="214" y="272" width="8" height="18"/><rect x="248" y="272" width="8" height="18"/><rect x="370" y="267" width="9" height="24"/><rect x="405" y="267" width="9" height="24"/><rect x="697" y="270" width="9" height="22"/><rect x="735" y="270" width="9" height="22"/><rect x="875" y="282" width="8" height="18"/></g>
-<path d="M0 350Q220 318 430 362T850 350T1200 345V430H0Z" fill="#090f1c"/>
-<g transform="translate(830 165)">
- <path d="M-75 195L-55 85Q-42 28 5 15Q58 22 75 88L110 205Z" fill="#080b13" stroke="#d4a16d" stroke-opacity=".65" stroke-width="3"/>
- <path d="M-48 70Q0 5 54 68L38 105L-36 105Z" fill="#172334" stroke="#ffb16c" stroke-width="3"/>
- <path d="M-40 89Q0 65 42 89L32 124Q0 139-32 124Z" fill="#080b13"/>
- <path d="M-28 102L-8 98M10 98L30 102" stroke="#8fe8ff" stroke-width="4" stroke-linecap="round" filter="url(#glow)"/>
- <path d="M-55 55L-105 25L-82 87L-125 110L-45 100M45 55L98 20L80 85L125 110L44 100" fill="#111a29" stroke="#ff914f" stroke-width="2"/>
- <path d="M-20 130L-95 220L-55 235L10 170L68 235L110 215L32 128Z" fill="#0a111d" stroke="#26394d" stroke-width="2"/>
- <path d="M65 155Q165 130 210 55Q150 160 105 190" fill="none" stroke="url(#fire)" stroke-width="9" stroke-linecap="round" filter="url(#glow)"><animate attributeName="stroke-dasharray" values="0 400;180 220;0 400" dur="5s" repeatCount="indefinite"/></path>
-</g>
-<g fill="#ff9b58"><path d="M170 90q18-12 26 4q-17 3-26-4Z"><animateTransform attributeName="transform" type="translate" values="0 0;45 20;95 5" dur="7s" repeatCount="indefinite"/></path><path d="M610 125q18-12 26 4q-17 3-26-4Z"><animateTransform attributeName="transform" type="translate" values="0 0;-60 45;-120 10" dur="8s" repeatCount="indefinite"/></path><path d="M1060 245q18-12 26 4q-17 3-26-4Z"><animateTransform attributeName="transform" type="translate" values="0 0;-50 30;-90 0" dur="6s" repeatCount="indefinite"/></path></g>
-<rect x="35" y="32" width="1130" height="366" rx="17" fill="none" stroke="url(#fire)" stroke-opacity=".5"/>
-<g font-family="Arial,Helvetica,sans-serif">
- <text x="75" y="100" fill="#ffad70" font-size="17" font-weight="700" letter-spacing="5">HIDDEN VILLAGE NETWORK  /  SHINOBI FILE 001</text>
- <text x="72" y="174" fill="#fffaf1" font-size="64" font-weight="800">PRATHAMESH</text>
- <text x="76" y="218" fill="#d5e3ef" font-size="23" letter-spacing="3">LANGAR  •  SOFTWARE DEVELOPER</text>
- <text x="76" y="270" fill="#f9c48c" font-size="21">AI · AUTOMATION · NETWORK ENGINEERING · SECURITY</text>
- <text x="76" y="325" fill="#8de6ff" font-size="17" letter-spacing="4">TRAIN  /  BUILD  /  EVOLVE</text>
-</g>
+<rect width="1200" height="360" rx="22" fill="url(#night)"/>
+<circle cx="930" cy="92" r="104" fill="#ff9b55" opacity=".12" filter="url(#g)"/><circle cx="930" cy="92" r="68" fill="url(#moon)"/>
+<g fill="#fff1d1" opacity=".75"><circle cx="80" cy="52" r="2"/><circle cx="240" cy="93" r="1.4"/><circle cx="440" cy="42" r="1.7"/><circle cx="690" cy="65" r="1.4"/><circle cx="1090" cy="48" r="1.7"/></g>
+<path d="M0 248L90 195 160 240 260 170 355 245 455 180 545 240 650 180 750 238 850 165 950 240 1060 180 1200 245V360H0Z" fill="#10172a"/>
+<g fill="#1b2940" stroke="#34445d" stroke-width="2"><path d="M0 300V225L75 160 150 225V300Z"/><path d="M-10 225L75 145 160 225Z"/><path d="M160 320V245L235 178 310 245V320Z"/><path d="M145 245L235 165 325 245Z"/><path d="M325 320V220L400 155 475 220V320Z"/><path d="M305 220L400 140 495 220Z"/><path d="M500 330V250L570 185 640 250V330Z"/><path d="M480 250L570 170 660 250Z"/><path d="M690 325V230L770 160 850 230V325Z"/><path d="M670 230L770 145 870 230Z"/><path d="M870 325V250L945 185 1020 250V325Z"/><path d="M850 250L945 165 1040 250Z"/><path d="M1040 320V225L1120 155 1200 225V320Z"/><path d="M1020 225L1120 140 1220 225Z"/></g>
+<g fill="#ff9b57"><rect x="54" y="245" width="9" height="18"/><rect x="88" y="245" width="9" height="18"/><rect x="212" y="264" width="9" height="18"/><rect x="250" y="264" width="9" height="18"/><rect x="377" y="240" width="9" height="22"/><rect x="416" y="240" width="9" height="22"/><rect x="746" y="250" width="9" height="21"/><rect x="788" y="250" width="9" height="21"/><rect x="1095" y="240" width="9" height="22"/><rect x="1135" y="240" width="9" height="22"/></g>
+<path d="M0 320Q230 285 420 328T810 316T1200 320V360H0Z" fill="#080d19"/>
+<g transform="translate(865 160)"><path d="M-78 160Q-60 35 0 25Q65 36 86 160Z" fill="#080d17" stroke="#a75a39" stroke-width="2"/><path d="M-48 62Q0 5 48 62L38 95H-38Z" fill="#263349" stroke="#ffc06b" stroke-width="3"/><path d="M-38 91Q0 75 38 91L28 120Q0 135-28 120Z" fill="#070b14"/><path d="M-26 102L-7 99M8 99L27 102" stroke="#83eaff" stroke-width="4" stroke-linecap="round"/><path d="M-45 55L-95 18L-75 85L-125 102L-42 96M45 55L95 18L75 85L125 102L42 96" fill="#111b2c" stroke="#ff8c4a" stroke-width="2"/><path d="M-65 140L-105 210L-40 224L8 170L58 224L112 205L48 136Z" fill="#090e19"/></g>
+<g fill="#ffad61"><path d="M180 118q20-20 34 2q-18 8-34-2Z"><animateTransform attributeName="transform" type="translate" values="0 0;85 28;145 5" dur="8s" repeatCount="indefinite"/></path><path d="M650 95q20-20 34 2q-18 8-34-2Z"><animateTransform attributeName="transform" type="translate" values="0 0;-75 35;-135 8" dur="7s" repeatCount="indefinite"/></path><path d="M1080 220q20-20 34 2q-18 8-34-2Z"><animateTransform attributeName="transform" type="translate" values="0 0;-70 35;-130 8" dur="9s" repeatCount="indefinite"/></path></g>
+<g font-family="Arial,Helvetica,sans-serif"><text x="62" y="66" fill="#ffb06a" font-size="15" font-weight="700" letter-spacing="5">KONOHA • SHINOBI DEVELOPER FILE</text><text x="58" y="142" fill="#fff8ed" font-size="61" font-weight="800">PRATHAMESH</text><text x="62" y="185" fill="#ffd07d" font-size="25" font-weight="700" letter-spacing="2">LANGAR</text><path d="M60 199H420" stroke="url(#gold)" stroke-width="4"/><text x="62" y="237" fill="#e5edf7" font-size="19">Software Developer  •  AI &amp; Automation</text><text x="62" y="268" fill="#e5edf7" font-size="19">Cybersecurity  •  Network Engineering</text><text x="62" y="316" fill="#86e6ff" font-size="16" letter-spacing="4">LEARN  /  BUILD  /  PROTECT</text></g>
+<rect x="20" y="20" width="1160" height="320" rx="16" fill="none" stroke="url(#gold)" stroke-opacity=".55" stroke-width="2"/>
 </svg>

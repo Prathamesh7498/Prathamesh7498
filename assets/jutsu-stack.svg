@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="t">
+<title id="t">Jutsu Arsenal — technology stack</title><defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#09111e"/><stop offset="1" stop-color="#1c2639"/></linearGradient><linearGradient id="fire"><stop stop-color="#f34c2f"/><stop offset="1" stop-color="#ffc66f"/></linearGradient></defs>
+<rect width="1200" height="240" rx="18" fill="url(#bg)" stroke="#a94d34" stroke-width="2"/>
+<text x="42" y="43" fill="#ffc06c" font-family="Georgia" font-size="27" font-weight="bold">🔥 JUTSU ARSENAL</text>
+<text x="44" y="70" fill="#aebdd0" font-family="Arial" font-size="14" letter-spacing="3">TOOLS AND TECHNIQUES I WORK WITH</text>
+<g font-family="Arial" font-size="17" font-weight="bold" text-anchor="middle">
+ <g transform="translate(42 95)"><rect width="255" height="95" rx="13" fill="#17263b" stroke="#4cb7d5"/><text x="127" y="37" fill="#70ddf8" font-size="21">FRONTEND</text><text x="127" y="68" fill="#edf4fa" font-size="16">React · TypeScript · Vite</text></g>
+ <g transform="translate(318 95)"><rect width="255" height="95" rx="13" fill="#17263b" stroke="#f1a85d"/><text x="127" y="37" fill="#ffc06c" font-size="21">BACKEND</text><text x="127" y="68" fill="#edf4fa" font-size="16">Python · Flask · APIs</text></g>
+ <g transform="translate(594 95)"><rect width="255" height="95" rx="13" fill="#17263b" stroke="#a78bfa"/><text x="127" y="37" fill="#c5b4ff" font-size="21">AI SYSTEMS</text><text x="127" y="68" fill="#edf4fa" font-size="16">Local-first AI · Automation</text></g>
+ <g transform="translate(870 95)"><rect width="288" height="95" rx="13" fill="#17263b" stroke="#65d6a4"/><text x="144" y="37" fill="#83e6b7" font-size="21">CYBER JUTSU</text><text x="144" y="68" fill="#edf4fa" font-size="16">Networking · Security</text></g>
+</g>
+<path d="M42 213H1158" stroke="url(#fire)" stroke-width="2" stroke-dasharray="10 12"><animate attributeName="stroke-dashoffset" values="0;-176" dur="7s" repeatCount="indefinite"/></path>
+</svg>

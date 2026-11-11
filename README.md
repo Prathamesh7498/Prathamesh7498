@@ -1,64 +1,71 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Original animated ninja-themed Prathamesh developer hero artwork" width="100%"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=8DE6FF&center=true&vCenter=true&width=760&lines=Software+Developer;AI+%26+Automation+Enthusiast;Cybersecurity+%26+Network+Engineering;A+Shinobi+Who+Builds+Useful+Technology" alt="Animated typing introduction"/>
+<img src="./assets/hero.svg" alt="Hidden Leaf inspired Prathamesh Langar developer banner" width="100%"/>
 
 <br/><br/>
 
-<img src="./assets/ninja-way.svg" alt="My shinobi way" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=850&color=FFC06C&center=true&vCenter=true&width=760&lines=Software+Developer;AI+%26+Automation+Enthusiast;Cybersecurity+%26+Network+Engineering;Welcome+to+my+Hidden+Leaf+headquarters" alt="Animated shinobi developer introduction"/>
 
 <br/><br/>
 
-<img src="./assets/jutsu-arsenal.svg" alt="Jutsu arsenal technology stack" width="100%"/>
+<img src="https://media.giphy.com/media/4gsjHZMPXdlGo/giphy.gif" alt="Naruto anime fan animation" width="230"/>
 
 <br/><br/>
 
-<img src="./assets/shinobi-id.svg" alt="Shinobi registration profile card" width="100%"/>
+<img src="./assets/ninja-way.svg" alt="My Ninja Way — what I build" width="100%"/>
+
+<br/><br/>
+
+<img src="./assets/jutsu-stack.svg" alt="Jutsu Arsenal — technology stack" width="100%"/>
+
+<br/><br/>
+
+<img src="./assets/ninja-id.svg" alt="Shinobi registration and mission dashboard" width="100%"/>
 
 </div>
 
 ## 🍥 S-Rank Missions
 
-<table>
-<tr><th>Mission</th><th>Mission briefing</th><th>Jutsu / focus</th></tr>
-<tr><td><a href="https://github.com/Prathamesh7498/NetScope"><b>NetScope</b></a></td><td>Network traffic analysis: packet inspection, protocol decoding, flow analysis and rule-based anomaly detection.</td><td>Networking · Python · React</td></tr>
-<tr><td><a href="https://github.com/Prathamesh7498/Friday-"><b>Friday</b></a></td><td>Local-first personal AI assistant concept across web, mobile and API, designed around privacy and security.</td><td>AI · Architecture · Security</td></tr>
-<tr><td><a href="https://github.com/Prathamesh7498/OpenJarvis"><b>OpenJarvis</b></a></td><td>Exploring the OpenJarvis personal-AI ecosystem and on-device AI ideas. See the repository for upstream project context.</td><td>Personal AI · On-device AI</td></tr>
-<tr><td><a href="https://github.com/Prathamesh7498/portfolio"><b>Portfolio</b></a></td><td>Developer portfolio website project for presenting selected work and skills.</td><td>Web · UI · UX</td></tr>
-</table>
-
-> Mission status describes current project scope; planned features are not claimed as shipped.
+| Mission | What it is | Jutsu used |
+|---|---|---|
+| [**NetScope**](https://github.com/Prathamesh7498/NetScope) | Network traffic analysis project for packet inspection, protocol decoding, flow analysis and rule-based anomaly detection. | Python · React · TypeScript |
+| [**Friday**](https://github.com/Prathamesh7498/Friday-) | Local-first personal AI assistant planned across web, mobile and API, with privacy and security as core design principles. | AI · Architecture · Security |
+| [**OpenJarvis**](https://github.com/Prathamesh7498/OpenJarvis) | Exploring the OpenJarvis personal-AI ecosystem and on-device AI ideas. See repository for upstream project context. | Personal AI · On-device AI |
+| [**Portfolio**](https://github.com/Prathamesh7498/portfolio) | Developer portfolio website project for presenting selected work, skills and progress. | Web · UI · UX |
 
 <div align="center">
 
-<a href="https://github.com/Prathamesh7498?tab=repositories"><b>→ Explore all missions / repositories</b></a>
+<a href="https://github.com/Prathamesh7498?tab=repositories"><b>→ Explore all my repositories</b></a>
 
 <br/><br/>
 
-## 🏯 The contribution village
+<img src="https://media.giphy.com/media/10nWoSu34CmWWs/giphy.gif" alt="Naruto running anime fan animation" width="160"/>
 
-*Every contribution helps the village grow.*
+### 🌃 My contribution village
+
+*Every commit helps the village grow — generated automatically.*
+
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D GitHub contribution village" width="100%"/>
+
+<br/><br/>
 
 <img src="https://raw.githubusercontent.com/Prathamesh7498/Prathamesh7498/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%"/>
 
 <br/><br/>
 
-<img src="./assets/connect.svg" alt="Join the squad" width="100%"/>
+<img src="./assets/connect.svg" alt="Let's connect" width="100%"/>
 
-<a href="https://github.com/Prathamesh7498"><img src="https://img.shields.io/badge/GitHub-ff8a4c?style=for-the-badge&logo=github&logoColor=101a2a" alt="GitHub"/></a>
-<a href="https://github.com/Prathamesh7498?tab=repositories"><img src="https://img.shields.io/badge/Missions-79ddf5?style=for-the-badge&logo=github&logoColor=101a2a" alt="Projects"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Prathamesh7498&color=ff8a4c&style=for-the-badge&label=VISITORS" alt="Profile visitor counter"/>
+<a href="https://github.com/Prathamesh7498"><img src="https://img.shields.io/badge/GitHub-ff7a1a?style=for-the-badge&logo=github&logoColor=0b0d13" alt="GitHub"/></a>
+<a href="https://github.com/Prathamesh7498?tab=repositories"><img src="https://img.shields.io/badge/Projects-e2383f?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a>
 
 <br/><br/>
 
-**“Train. Build. Improve. Repeat.”** 🍃
+<img src="https://komarev.com/ghpvc/?username=Prathamesh7498&color=ff7a1a&style=for-the-badge&label=VISITORS" alt="Profile views"/>
 
-<sub>Thanks for visiting my shinobi headquarters.</sub>
+<br/><br/>
+
+<img src="https://media.giphy.com/media/13znec2FaeCLZe/giphy.gif" alt="Naruto ninja fan animation" width="110"/>
+
+**Dattebayo — keep coding, keep growing.** 🍥
 
 </div>

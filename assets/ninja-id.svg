@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="t">
+<title id="t">Shinobi registration and mission dashboard</title><defs><linearGradient id="paper" x2="1" y2="1"><stop stop-color="#f8e0b0"/><stop offset="1" stop-color="#c88e55"/></linearGradient><linearGradient id="dark" x2="1"><stop stop-color="#121b2a"/><stop offset="1" stop-color="#263248"/></linearGradient></defs>
+<rect width="1200" height="330" rx="18" fill="url(#dark)" stroke="#a94d34" stroke-width="2"/>
+<rect x="24" y="24" width="565" height="282" rx="13" fill="url(#paper)" stroke="#7f3b2c" stroke-width="3"/>
+<text x="48" y="58" fill="#9b3025" font-family="Georgia" font-size="24" font-weight="bold">🪪 SHINOBI REGISTRATION</text>
+<rect x="48" y="80" width="135" height="176" rx="9" fill="#19263a" stroke="#9b3025" stroke-width="3"/>
+<circle cx="115" cy="130" r="37" fill="#273d55"/><path d="M78 129Q115 87 152 129L143 154H87Z" fill="#111827"/><path d="M88 142L107 138M123 138L142 142" stroke="#8de7ff" stroke-width="4"/><path d="M65 186Q115 153 165 186V244H65Z" fill="#101827"/>
+<g font-family="Arial" fill="#2c211c"><text x="205" y="104" font-size="15">NAME</text><text x="205" y="129" font-size="22" font-weight="bold">Prathamesh Langar</text><text x="205" y="164" font-size="15">ROLE</text><text x="205" y="188" font-size="19" font-weight="bold">Software Developer</text><text x="205" y="220" font-size="15">SPECIALTY</text><text x="205" y="245" font-size="17" font-weight="bold">AI · Automation · Cybersecurity</text><text x="205" y="278" font-size="16">VILLAGE: GitHub / India</text></g>
+<rect x="612" y="24" width="564" height="282" rx="13" fill="#0b1321" stroke="#a94d34" stroke-width="2"/>
+<text x="642" y="62" fill="#ffc06c" font-family="Georgia" font-size="25" font-weight="bold">📜 MISSION DASHBOARD</text>
+<g font-family="Arial" text-anchor="middle"><g fill="#ffbd67" font-size="31" font-weight="bold"><text x="710" y="132">04</text><text x="850" y="132">M0–M6</text><text x="1010" y="132">∞</text></g><g fill="#c7d5e6" font-size="14"><text x="710" y="158">FEATURED PROJECTS</text><text x="850" y="158">BUILD ROADMAP</text><text x="1010" y="158">CURIOSITY</text></g></g>
+<path d="M648 185H1140" stroke="#39485e"/><text x="648" y="222" fill="#80e4ff" font-family="Arial" font-size="16">CURRENT QUEST</text><text x="648" y="250" fill="#f1f5f9" font-family="Arial" font-size="19" font-weight="bold">Build useful tools. Learn every day.</text><text x="648" y="279" fill="#aebdd0" font-family="Arial" font-size="14">Status: Independent developer in training</text>
+</svg>
