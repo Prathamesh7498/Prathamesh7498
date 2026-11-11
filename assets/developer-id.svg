@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="t">
+<title id="t">Developer identity card</title><rect width="1200" height="260" rx="22" fill="#101827" stroke="#34445e"/>
+<text x="42" y="45" fill="#ff9a55" font-family="Arial" font-size="16" font-weight="bold" letter-spacing="4">03 / DEVELOPER ID</text>
+<rect x="42" y="70" width="1116" height="150" rx="16" fill="#172338" stroke="#3a4c67"/>
+<circle cx="130" cy="145" r="48" fill="#243c54" stroke="#46d9ff" stroke-width="2"/>
+<text x="130" y="158" text-anchor="middle" fill="#f8fafc" font-family="Arial" font-size="36" font-weight="bold">PL</text>
+<text x="210" y="122" fill="#f8fafc" font-family="Arial" font-size="30" font-weight="bold">Prathamesh Langar</text>
+<text x="210" y="157" fill="#9fb3ca" font-family="Arial" font-size="18">Software Developer  •  AI &amp; Automation  •  Cybersecurity</text>
+<text x="210" y="190" fill="#46d9ff" font-family="Arial" font-size="16">GITHUB.COM/PRATHAMESH7498</text>
+<g font-family="Arial" font-size="14" text-anchor="end"><text x="1115" y="112" fill="#ff9a55">STATUS</text><text x="1115" y="139" fill="#a7f3d0">BUILDING</text><text x="1115" y="183" fill="#9fb3ca">INDIA  /  ONLINE</text></g>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="t">
+<title id="t">Connect with Prathamesh</title><rect width="1200" height="150" rx="22" fill="#111827" stroke="#34445e"/>
+<text x="600" y="62" text-anchor="middle" fill="#f8fafc" font-family="Arial" font-size="32" font-weight="bold">LET'S BUILD SOMETHING MEANINGFUL</text>
+<text x="600" y="100" text-anchor="middle" fill="#46d9ff" font-family="Arial" font-size="18" letter-spacing="3">CONNECT  •  COLLABORATE  •  CREATE</text>
+<path d="M60 125H1140" stroke="#ff7a32" stroke-width="2" stroke-dasharray="6 12"><animate attributeName="stroke-dashoffset" values="0;-180" dur="8s" repeatCount="indefinite"/></path>
+</svg>

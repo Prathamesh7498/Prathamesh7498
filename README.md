@@ -1,67 +1,62 @@
-<!-- Profile README for Prathamesh7498 -->
-<p align="center">
-  <img src="./assets/profile-header.svg" alt="Prathamesh Langar — Software Developer, AI and Automation, Cybersecurity" width="100%" />
-</p>
+<div align="center">
 
-<h1 align="center">Hey, I'm Prathamesh Langar 👋</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=2800&amp;pause=900&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Software+Developer;AI+%26+Automation+Enthusiast;Cybersecurity+%26+Network+Engineering;Building+useful+technology" alt="Animated introduction" />
-</p>
-<p align="center">
-  I enjoy turning ideas into practical software — from network analysis tools to local-first AI assistants and developer experiences.
-</p>
-<p align="center">
-  <a href="https://github.com/Prathamesh7498"><img src="https://img.shields.io/badge/GitHub-Prathamesh7498-181717?style=for-the-badge&amp;logo=github" alt="GitHub" /></a>
-  <a href="https://github.com/Prathamesh7498?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Repositories-2563eb?style=for-the-badge&amp;logo=github" alt="Repositories" /></a>
-</p>
+<img src="./assets/hero.svg" alt="Animated Prathamesh Langar developer banner" width="100%"/>
 
----
+<br/>
 
-## 🚀 About me
-- 💻 Interested in software development, AI systems, automation, and cybersecurity.
-- 🧠 Exploring useful AI assistants that can work locally with privacy and control in focus.
-- 🌐 Interested in networking, traffic analysis, and practical security tooling.
-- 🛠️ I value clear architecture, thoughtful UX, reliable engineering, and continuous learning.
-- 🎯 Building projects and strengthening my skills through hands-on development.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=800&color=46D9FF&center=true&vCenter=true&width=760&lines=Software+Developer;AI+%26+Automation+Enthusiast;Cybersecurity+%26+Network+Engineering;Building+Friday%2C+NetScope+%26+more" alt="Animated role introduction"/>
 
-## 🧩 Featured projects
+<br/><br/>
 
-| Project | What it is | Status / focus |
-|---|---|---|
-| [NetScope](https://github.com/Prathamesh7498/NetScope) | Network traffic analysis project focused on packet inspection, protocol decoding, flow analysis, and rule-based anomaly detection. | Active development; dashboard and analysis workflows are evolving. |
-| [Friday](https://github.com/Prathamesh7498/Friday-) | Planned local-first personal AI assistant spanning web, mobile, and API experiences, with privacy and security as core design principles. | Architecture and milestone planning; implementation is progressing separately. |
-| [OpenJarvis](https://github.com/Prathamesh7498/OpenJarvis) | My space for exploring the OpenJarvis personal-AI ecosystem and its on-device AI ideas. | Exploration; see the repository for upstream project context. |
-| [Developer Portfolio](https://github.com/Prathamesh7498/portfolio) | Portfolio website project for presenting work, skills, and development progress. | In progress. |
+<img src="./assets/mission.svg" alt="My mission" width="100%"/>
 
-> Project descriptions reflect the current scope; planned features are not presented as already shipped.
+<br/><br/>
 
-## 🛠️ Technologies & areas
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&amp;logo=vite&amp;logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
-</p>
-<p align="center"><b>Exploring:</b> AI &amp; local-first systems · Network engineering · Cybersecurity · Automation · Full-stack development</p>
+<img src="./assets/tech-arsenal.svg" alt="Technology arsenal" width="100%"/>
 
-## 🐍 Contribution activity
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Prathamesh7498/Prathamesh7498/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution graph snake" width="100%" />
-</p>
+<br/><br/>
 
-## 📌 What I'm working toward
-- Building useful, well-documented software projects.
-- Improving my full-stack engineering and system design skills.
-- Learning more about secure-by-design AI tools and automation.
-- Sharing progress and connecting with other developers.
+<img src="./assets/developer-id.svg" alt="Developer identity card" width="100%"/>
 
-## 🤝 Connect
-<p align="center">
-  <a href="https://github.com/Prathamesh7498">GitHub</a> &nbsp;•&nbsp;
-  <a href="https://github.com/Prathamesh7498?tab=repositories">Projects</a>
-</p>
-<p align="center"><i>“Understand. Explore. Create.”</i></p>
-<p align="center"><sub>Thanks for stopping by! Explore my repositories and follow along as I build.</sub></p>
+</div>
+
+## ⚡ S-Rank Projects
+
+<table>
+<tr><th>Project</th><th>Mission briefing</th><th>Focus</th></tr>
+<tr><td><a href="https://github.com/Prathamesh7498/NetScope"><b>NetScope</b></a></td><td>Network traffic analysis, packet inspection, protocol decoding, flow analysis and anomaly detection.</td><td>Networking · Python · React</td></tr>
+<tr><td><a href="https://github.com/Prathamesh7498/Friday-"><b>Friday</b></a></td><td>Local-first personal AI assistant concept across web, mobile and API, designed around privacy and security.</td><td>AI · Architecture · Security</td></tr>
+<tr><td><a href="https://github.com/Prathamesh7498/OpenJarvis"><b>OpenJarvis</b></a></td><td>Exploring the OpenJarvis personal-AI ecosystem and on-device AI ideas. See repository for upstream project context.</td><td>Personal AI · On-device AI</td></tr>
+<tr><td><a href="https://github.com/Prathamesh7498/portfolio"><b>Developer Portfolio</b></a></td><td>Portfolio website project to present selected work, skills and progress.</td><td>Web · UI · UX</td></tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/Prathamesh7498?tab=repositories"><b>→ Explore all my repositories</b></a>
+
+<br/><br/>
+
+## 🌌 Contribution energy
+
+*Every commit is another step forward.*
+
+<img src="https://raw.githubusercontent.com/Prathamesh7498/Prathamesh7498/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%"/>
+
+<br/><br/>
+
+<img src="./assets/connect.svg" alt="Let's connect" width="100%"/>
+
+<a href="https://github.com/Prathamesh7498"><img src="https://img.shields.io/badge/GitHub-ff7a32?style=for-the-badge&logo=github&logoColor=101827" alt="GitHub"/></a>
+<a href="https://github.com/Prathamesh7498?tab=repositories"><img src="https://img.shields.io/badge/Projects-46d9ff?style=for-the-badge&logo=github&logoColor=101827" alt="Projects"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Prathamesh7498&color=ff7a32&style=for-the-badge&label=PROFILE+VISITORS" alt="Profile visitor counter"/>
+
+<br/><br/>
+
+**Understand. Explore. Create.** ⚡
+
+<sub>Thanks for visiting my profile — keep learning, keep building.</sub>
+
+</div>

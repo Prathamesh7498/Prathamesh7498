@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="t">
+<title id="t">Technology arsenal</title><rect width="1200" height="250" rx="22" fill="#101827" stroke="#34445e"/>
+<text x="42" y="48" fill="#ff9a55" font-family="Arial" font-size="16" font-weight="bold" letter-spacing="4">02 / TECH ARSENAL</text>
+<g font-family="Arial" font-weight="bold" font-size="19" text-anchor="middle">
+ <g transform="translate(42 82)"><rect width="245" height="58" rx="12" fill="#17263b" stroke="#3178c6"/><text x="122" y="36" fill="#9ccaff">TYPESCRIPT  /  REACT</text></g>
+ <g transform="translate(315 82)"><rect width="245" height="58" rx="12" fill="#17263b" stroke="#f5c15c"/><text x="122" y="36" fill="#f5c15c">PYTHON  /  FLASK</text></g>
+ <g transform="translate(588 82)"><rect width="245" height="58" rx="12" fill="#17263b" stroke="#46d9ff"/><text x="122" y="36" fill="#7ce5ff">VITE  /  TAILWIND</text></g>
+ <g transform="translate(861 82)"><rect width="297" height="58" rx="12" fill="#17263b" stroke="#ff7a32"/><text x="148" y="36" fill="#ffad78">NETWORKING  /  SECURITY</text></g>
+</g>
+<text x="600" y="190" fill="#9caec5" font-family="Arial" font-size="17" text-anchor="middle" letter-spacing="2">LEARNING BY BUILDING  •  DESIGNING WITH PURPOSE  •  SHIPPING ITERATIVELY</text>
+<path d="M40 218H1160" stroke="#ff7a32" opacity=".5"><animate attributeName="stroke-dasharray" values="0 1120;1120 0;0 1120" dur="8s" repeatCount="indefinite"/></path>
+</svg>

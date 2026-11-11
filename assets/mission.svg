@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="t">
+<title id="t">My mission — building useful technology</title>
+<defs><linearGradient id="b" x1="0" x2="1"><stop stop-color="#111827"/><stop offset="1" stop-color="#1b263b"/></linearGradient><linearGradient id="a"><stop stop-color="#ff7a32"/><stop offset="1" stop-color="#46d9ff"/></linearGradient></defs>
+<rect width="1200" height="220" rx="22" fill="url(#b)" stroke="#34445e"/>
+<text x="48" y="52" fill="#ff9a55" font-family="Arial" font-size="16" font-weight="bold" letter-spacing="4">01 / MY MISSION</text>
+<text x="48" y="105" fill="#f8fafc" font-family="Arial" font-size="34" font-weight="bold">Curiosity is the source code.</text>
+<text x="48" y="145" fill="#cbd5e1" font-family="Arial" font-size="20">I turn complex ideas into practical software, exploring AI, automation,</text>
+<text x="48" y="174" fill="#cbd5e1" font-family="Arial" font-size="20">network engineering and cybersecurity along the way.</text>
+<g transform="translate(950 110)">
+ <circle r="58" fill="none" stroke="#ff7a32" stroke-width="2" stroke-dasharray="10 8"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="18s" repeatCount="indefinite"/></circle>
+ <circle r="39" fill="none" stroke="#46d9ff" stroke-width="2" stroke-dasharray="3 6"><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="12s" repeatCount="indefinite"/></circle>
+ <path d="M-15 0L-3 13 20 -17" fill="none" stroke="url(#a)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>
