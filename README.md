@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/4gsjHZMPXdlGo/giphy.gif" alt="Naruto anime fan animation" width="230"/>
+<img src="./assets/chibi-ninja.svg" alt="Naruto anime fan animation" width="230"/>
 
 <br/><br/>
 
@@ -39,7 +39,7 @@
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/10nWoSu34CmWWs/giphy.gif" alt="Naruto running anime fan animation" width="160"/>
+<img src="./assets/chibi-ninja.svg" alt="Naruto running anime fan animation" width="160"/>
 
 ### 🌃 My contribution village
 
@@ -64,7 +64,7 @@
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/13znec2FaeCLZe/giphy.gif" alt="Naruto ninja fan animation" width="110"/>
+<img src="./assets/chibi-ninja.svg" alt="Naruto ninja fan animation" width="110"/>
 
 **Dattebayo — keep coding, keep growing.** 🍥
 
