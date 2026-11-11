@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="t">
+<title id="t">The shinobi way — build with purpose</title>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101a2a"/><stop offset="1" stop-color="#251a25"/></linearGradient><linearGradient id="a"><stop stop-color="#ff783e"/><stop offset="1" stop-color="#ffcf82"/></linearGradient></defs>
+<rect width="1200" height="240" rx="24" fill="url(#bg)" stroke="#554254"/>
+<text x="48" y="50" fill="#ffad70" font-family="Arial" font-size="16" font-weight="bold" letter-spacing="4">🍃  MY SHINOBI WAY</text>
+<text x="48" y="112" fill="#fffaf1" font-family="Georgia" font-size="38" font-weight="bold">“A stronger mind builds a stronger future.”</text>
+<text x="50" y="157" fill="#c6d3e1" font-family="Arial" font-size="20">Learn relentlessly. Build thoughtfully. Protect what matters.</text>
+<text x="50" y="198" fill="#8de6ff" font-family="Arial" font-size="16" letter-spacing="3">DISCIPLINE  •  CURIOSITY  •  CONSISTENCY</text>
+<g transform="translate(1000 120)"><circle r="72" fill="none" stroke="#ff894e" stroke-width="3" stroke-dasharray="12 8"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="24s" repeatCount="indefinite"/></circle><circle r="48" fill="none" stroke="#65dfff" stroke-width="2" stroke-dasharray="4 8"><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="15s" repeatCount="indefinite"/></circle><path d="M-22 -4L0 20 30 -24" fill="none" stroke="url(#a)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+</svg>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="t">
-<title id="t">Connect with Prathamesh</title><rect width="1200" height="150" rx="22" fill="#111827" stroke="#34445e"/>
-<text x="600" y="62" text-anchor="middle" fill="#f8fafc" font-family="Arial" font-size="32" font-weight="bold">LET'S BUILD SOMETHING MEANINGFUL</text>
-<text x="600" y="100" text-anchor="middle" fill="#46d9ff" font-family="Arial" font-size="18" letter-spacing="3">CONNECT  •  COLLABORATE  •  CREATE</text>
-<path d="M60 125H1140" stroke="#ff7a32" stroke-width="2" stroke-dasharray="6 12"><animate attributeName="stroke-dashoffset" values="0;-180" dur="8s" repeatCount="indefinite"/></path>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="160" viewBox="0 0 1200 160" role="img" aria-labelledby="t">
+<title id="t">Join the squad — connect with Prathamesh</title><rect width="1200" height="160" rx="24" fill="#101a2a" stroke="#3b4c63"/>
+<text x="600" y="65" text-anchor="middle" fill="#fffaf1" font-family="Arial" font-size="32" font-weight="bold">JOIN THE SQUAD</text>
+<text x="600" y="105" text-anchor="middle" fill="#8de6ff" font-family="Arial" font-size="18" letter-spacing="4">COLLABORATE  •  SHARE KNOWLEDGE  •  BUILD TOGETHER</text>
+<path d="M55 135H1145" stroke="#ff9b58" stroke-width="2" stroke-dasharray="7 12"><animate attributeName="stroke-dashoffset" values="0;-180" dur="8s" repeatCount="indefinite"/></path>
 </svg>
